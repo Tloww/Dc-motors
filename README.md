@@ -52,10 +52,8 @@
 ---
 
 ## 🖼️ Screenshots
-Add your simulation screenshots here (upload to `images/` folder in your repo):
 
-```md
-![Forward](images/forward.png)
-![Backward](images/backward.png)
-![Right](images/right.png)
-![Left](images/left.png)
+![Forward](https://github.com/Tloww/Dc-motors/blob/main/Screenshot%202025-10-19%20060050.png)
+![Backward](https://github.com/Tloww/Dc-motors/blob/main/Screenshot%202025-10-19%20060118.png)
+![Right](https://github.com/Tloww/Dc-motors/blob/main/Screenshot%202025-10-19%20060224.png)
+![Left](https://github.com/Tloww/Dc-motors/blob/main/Screenshot%202025-10-19%20060238.png)
